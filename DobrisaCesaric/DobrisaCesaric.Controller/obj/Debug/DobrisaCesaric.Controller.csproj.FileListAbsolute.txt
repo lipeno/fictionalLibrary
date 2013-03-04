@@ -1,0 +1,9 @@
+D:\Documents\diplomski\objektno oblikovanje\seminar\Dragisic_Andrej_KnjiznicaDobrisaCesaric\DobrisaCesaric\DobrisaCesaric.Controller\bin\Debug\DobrisaCesaric.Controller.dll
+D:\Documents\diplomski\objektno oblikovanje\seminar\Dragisic_Andrej_KnjiznicaDobrisaCesaric\DobrisaCesaric\DobrisaCesaric.Controller\bin\Debug\DobrisaCesaric.Controller.pdb
+D:\Documents\diplomski\objektno oblikovanje\seminar\Dragisic_Andrej_KnjiznicaDobrisaCesaric\DobrisaCesaric\DobrisaCesaric.Controller\bin\Debug\DobrisaCesaric.DomainModel.dll
+D:\Documents\diplomski\objektno oblikovanje\seminar\Dragisic_Andrej_KnjiznicaDobrisaCesaric\DobrisaCesaric\DobrisaCesaric.Controller\bin\Debug\DobrisaCesaric.Utility.dll
+D:\Documents\diplomski\objektno oblikovanje\seminar\Dragisic_Andrej_KnjiznicaDobrisaCesaric\DobrisaCesaric\DobrisaCesaric.Controller\bin\Debug\DobrisaCesaric.DomainModel.pdb
+D:\Documents\diplomski\objektno oblikovanje\seminar\Dragisic_Andrej_KnjiznicaDobrisaCesaric\DobrisaCesaric\DobrisaCesaric.Controller\bin\Debug\DobrisaCesaric.Utility.pdb
+D:\Documents\diplomski\objektno oblikovanje\seminar\Dragisic_Andrej_KnjiznicaDobrisaCesaric\DobrisaCesaric\DobrisaCesaric.Controller\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\diplomski\objektno oblikovanje\seminar\Dragisic_Andrej_KnjiznicaDobrisaCesaric\DobrisaCesaric\DobrisaCesaric.Controller\obj\Debug\DobrisaCesaric.Controller.dll
+D:\Documents\diplomski\objektno oblikovanje\seminar\Dragisic_Andrej_KnjiznicaDobrisaCesaric\DobrisaCesaric\DobrisaCesaric.Controller\obj\Debug\DobrisaCesaric.Controller.pdb

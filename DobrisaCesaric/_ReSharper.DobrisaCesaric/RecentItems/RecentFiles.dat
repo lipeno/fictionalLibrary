@@ -1,0 +1,66 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="CA519C1B-28FA-4CC2-B235-70EC87666570/d:Repositories/f:LendingRepository.cs" caret="0" fromTop="0" />
+    <File id="CA519C1B-28FA-4CC2-B235-70EC87666570/d:Repositories/f:AuthorRepository.cs" caret="0" fromTop="0" />
+    <File id="CA519C1B-28FA-4CC2-B235-70EC87666570/f:Exceptions.cs" caret="0" fromTop="0" />
+    <File id="5F8ADDA6-B43F-49EF-AA21-81F6BBBFC611/f:ILend.cs" caret="0" fromTop="0" />
+    <File id="3DB3107B-6B7D-4066-BF38-428503F3E29B/f:MainController.cs" caret="0" fromTop="0" />
+    <File id="E9CB3746-B477-47E5-8932-206244BFEF2F/f:BookRepositoryTest.cs" caret="0" fromTop="0" />
+    <File id="5F8ADDA6-B43F-49EF-AA21-81F6BBBFC611/f:Subject.cs" caret="0" fromTop="0" />
+    <File id="CA519C1B-28FA-4CC2-B235-70EC87666570/d:Repositories/f:UserRepository.cs" caret="0" fromTop="0" />
+    <File id="CA519C1B-28FA-4CC2-B235-70EC87666570/f:BookLender.cs" caret="0" fromTop="0" />
+    <File id="79253C68-6D5D-40A6-8213-46C7F5C9656F/f:AddLibrarianForm.cs" caret="0" fromTop="0" />
+    <File id="5F8ADDA6-B43F-49EF-AA21-81F6BBBFC611/f:IAddLender.cs" caret="0" fromTop="0" />
+    <File id="5F8ADDA6-B43F-49EF-AA21-81F6BBBFC611/f:IAddLibrarian.cs" caret="0" fromTop="0" />
+    <File id="79253C68-6D5D-40A6-8213-46C7F5C9656F/f:AddLenderForm.cs" caret="0" fromTop="0" />
+    <File id="CA519C1B-28FA-4CC2-B235-70EC87666570/f:Membership.cs" caret="0" fromTop="0" />
+    <File id="CA519C1B-28FA-4CC2-B235-70EC87666570/f:Librarian.cs" caret="0" fromTop="0" />
+    <File id="CA519C1B-28FA-4CC2-B235-70EC87666570/f:Lending.cs" caret="0" fromTop="0" />
+    <File id="CA519C1B-28FA-4CC2-B235-70EC87666570/f:User.cs" caret="0" fromTop="0" />
+    <File id="79253C68-6D5D-40A6-8213-46C7F5C9656F/f:MainForm.Designer.cs" caret="0" fromTop="0" />
+    <File id="79253C68-6D5D-40A6-8213-46C7F5C9656F/f:Program.cs" caret="0" fromTop="0" />
+    <File id="79253C68-6D5D-40A6-8213-46C7F5C9656F/f:ViewAuthorsForm.cs" caret="0" fromTop="0" />
+    <File id="5F8ADDA6-B43F-49EF-AA21-81F6BBBFC611/f:IViewAuthors.cs" caret="0" fromTop="0" />
+    <File id="5F8ADDA6-B43F-49EF-AA21-81F6BBBFC611/f:IViewBooks.cs" caret="0" fromTop="0" />
+    <File id="79253C68-6D5D-40A6-8213-46C7F5C9656F/f:AddBookForm.cs" caret="0" fromTop="0" />
+    <File id="5F8ADDA6-B43F-49EF-AA21-81F6BBBFC611/f:IAddBook.cs" caret="0" fromTop="0" />
+    <File id="CA519C1B-28FA-4CC2-B235-70EC87666570/f:NormalLender.cs" caret="0" fromTop="0" />
+    <File id="5F8ADDA6-B43F-49EF-AA21-81F6BBBFC611/f:IAddAuthor.cs" caret="0" fromTop="0" />
+    <File id="CA519C1B-28FA-4CC2-B235-70EC87666570/f:Author.cs" caret="0" fromTop="0" />
+    <File id="5F8ADDA6-B43F-49EF-AA21-81F6BBBFC611/f:IObserver.cs" caret="0" fromTop="0" />
+    <File id="79253C68-6D5D-40A6-8213-46C7F5C9656F/f:ViewAuthorsForm.Designer.cs" caret="0" fromTop="0" />
+    <File id="79253C68-6D5D-40A6-8213-46C7F5C9656F/f:AddBookForm.Designer.cs" caret="0" fromTop="0" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="3DB3107B-6B7D-4066-BF38-428503F3E29B/f:MainController.cs" caret="3702" fromTop="31" />
+    <File id="CA519C1B-28FA-4CC2-B235-70EC87666570/d:Repositories/f:LendingRepository.cs" caret="1015" fromTop="31" />
+    <File id="CA519C1B-28FA-4CC2-B235-70EC87666570/d:Repositories/f:LendingRepository.cs" caret="972" fromTop="24" />
+    <File id="3DB3107B-6B7D-4066-BF38-428503F3E29B/f:MainController.cs" caret="3581" fromTop="15" />
+    <File id="5F8ADDA6-B43F-49EF-AA21-81F6BBBFC611/f:ILend.cs" caret="286" fromTop="13" />
+    <File id="79253C68-6D5D-40A6-8213-46C7F5C9656F/f:LendForm.cs" caret="3134" fromTop="22" />
+    <File id="79253C68-6D5D-40A6-8213-46C7F5C9656F/f:LendForm.cs" caret="2985" fromTop="11" />
+    <File id="79253C68-6D5D-40A6-8213-46C7F5C9656F/f:LendForm.cs" caret="441" fromTop="11" />
+    <File id="79253C68-6D5D-40A6-8213-46C7F5C9656F/f:LendForm.cs" caret="338" fromTop="5" />
+    <File id="79253C68-6D5D-40A6-8213-46C7F5C9656F/f:LendForm.cs" caret="3948" fromTop="30" />
+    <File id="79253C68-6D5D-40A6-8213-46C7F5C9656F/f:LendForm.cs" caret="3855" fromTop="16" />
+    <File id="79253C68-6D5D-40A6-8213-46C7F5C9656F/f:LendForm.cs" caret="3911" fromTop="23" />
+    <File id="79253C68-6D5D-40A6-8213-46C7F5C9656F/f:LendForm.cs" caret="3540" fromTop="13" />
+    <File id="79253C68-6D5D-40A6-8213-46C7F5C9656F/f:LendForm.cs" caret="3282" fromTop="9" />
+    <File id="CA519C1B-28FA-4CC2-B235-70EC87666570/d:Repositories/f:LendingRepository.cs" caret="710" fromTop="22" />
+    <File id="CA519C1B-28FA-4CC2-B235-70EC87666570/d:Repositories/f:LendingRepository.cs" caret="710" fromTop="20" />
+    <File id="CA519C1B-28FA-4CC2-B235-70EC87666570/d:Repositories/f:LendingRepository.cs" caret="710" fromTop="14" />
+    <File id="CA519C1B-28FA-4CC2-B235-70EC87666570/d:Repositories/f:AuthorRepository.cs" caret="939" fromTop="15" />
+    <File id="CA519C1B-28FA-4CC2-B235-70EC87666570/d:Repositories/f:BookRepository.cs" caret="892" fromTop="28" />
+    <File id="79253C68-6D5D-40A6-8213-46C7F5C9656F/f:AddAuthorForm.cs" caret="507" fromTop="21" />
+    <File id="79253C68-6D5D-40A6-8213-46C7F5C9656F/f:MainForm.cs" caret="1942" fromTop="22" />
+    <File id="79253C68-6D5D-40A6-8213-46C7F5C9656F/f:MainForm.cs" caret="926" fromTop="20" />
+    <File id="79253C68-6D5D-40A6-8213-46C7F5C9656F/f:ViewBooksForm.cs" caret="1049" fromTop="13" />
+    <File id="CA519C1B-28FA-4CC2-B235-70EC87666570/f:Book.cs" caret="435" fromTop="13" />
+    <File id="CA519C1B-28FA-4CC2-B235-70EC87666570/f:Book.cs" caret="565" fromTop="18" />
+    <File id="CA519C1B-28FA-4CC2-B235-70EC87666570/f:Book.cs" caret="1635" fromTop="18" />
+    <File id="CA519C1B-28FA-4CC2-B235-70EC87666570/f:Book.cs" caret="1719" fromTop="14" />
+    <File id="79253C68-6D5D-40A6-8213-46C7F5C9656F/f:MainForm.cs" caret="1510" fromTop="16" />
+    <File id="79253C68-6D5D-40A6-8213-46C7F5C9656F/f:MainForm.cs" caret="2708" fromTop="18" />
+    <File id="79253C68-6D5D-40A6-8213-46C7F5C9656F/f:MainForm.cs" caret="2731" fromTop="20" />
+  </RecentEdits>
+</RecentFiles>

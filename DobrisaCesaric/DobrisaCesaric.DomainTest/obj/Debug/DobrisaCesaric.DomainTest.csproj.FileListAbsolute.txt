@@ -1,0 +1,23 @@
+D:\Documents\diplomski\objektno oblikovanje\OO dz 4\Dragisic_Andrej_DZ4\DobrisaCesaric\DobrisaCesaric.DomainTest\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\diplomski\objektno oblikovanje\OO dz 4\Dragisic_Andrej_DZ4\DobrisaCesaric\DobrisaCesaric.DomainTest\bin\Debug\DobrisaCesaric.DomainTest.dll
+D:\Documents\diplomski\objektno oblikovanje\OO dz 4\Dragisic_Andrej_DZ4\DobrisaCesaric\DobrisaCesaric.DomainTest\bin\Debug\DobrisaCesaric.DomainTest.pdb
+D:\Documents\diplomski\objektno oblikovanje\OO dz 4\Dragisic_Andrej_DZ4\DobrisaCesaric\DobrisaCesaric.DomainTest\bin\Debug\DobrisaCesaric.DomainModel.dll
+D:\Documents\diplomski\objektno oblikovanje\OO dz 4\Dragisic_Andrej_DZ4\DobrisaCesaric\DobrisaCesaric.DomainTest\bin\Debug\DobrisaCesaric.DomainModel.pdb
+D:\Documents\diplomski\objektno oblikovanje\OO dz 4\Dragisic_Andrej_DZ4\DobrisaCesaric\DobrisaCesaric.DomainTest\obj\Debug\DobrisaCesaric.DomainTest.dll
+D:\Documents\diplomski\objektno oblikovanje\OO dz 4\Dragisic_Andrej_DZ4\DobrisaCesaric\DobrisaCesaric.DomainTest\obj\Debug\DobrisaCesaric.DomainTest.pdb
+D:\Documents\diplomski\objektno oblikovanje\dz 4\Dragisic_Andrej_DZ4\DobrisaCesaric\DobrisaCesaric.DomainTest\bin\Debug\DobrisaCesaric.DomainTest.dll
+D:\Documents\diplomski\objektno oblikovanje\dz 4\Dragisic_Andrej_DZ4\DobrisaCesaric\DobrisaCesaric.DomainTest\bin\Debug\DobrisaCesaric.DomainTest.pdb
+D:\Documents\diplomski\objektno oblikovanje\dz 4\Dragisic_Andrej_DZ4\DobrisaCesaric\DobrisaCesaric.DomainTest\bin\Debug\DobrisaCesaric.DomainModel.dll
+D:\Documents\diplomski\objektno oblikovanje\dz 4\Dragisic_Andrej_DZ4\DobrisaCesaric\DobrisaCesaric.DomainTest\bin\Debug\DobrisaCesaric.DomainModel.pdb
+D:\Documents\diplomski\objektno oblikovanje\dz 4\Dragisic_Andrej_DZ4\DobrisaCesaric\DobrisaCesaric.DomainTest\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\diplomski\objektno oblikovanje\dz 4\Dragisic_Andrej_DZ4\DobrisaCesaric\DobrisaCesaric.DomainTest\obj\Debug\DobrisaCesaric.DomainTest.dll
+D:\Documents\diplomski\objektno oblikovanje\dz 4\Dragisic_Andrej_DZ4\DobrisaCesaric\DobrisaCesaric.DomainTest\obj\Debug\DobrisaCesaric.DomainTest.pdb
+D:\Documents\diplomski\objektno oblikovanje\seminar\Dragisic_Andrej_KnjiznicaDobrisaCesaric\DobrisaCesaric\DobrisaCesaric.DomainTest\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\diplomski\objektno oblikovanje\seminar\Dragisic_Andrej_KnjiznicaDobrisaCesaric\DobrisaCesaric\DobrisaCesaric.DomainTest\obj\Debug\DobrisaCesaric.DomainTest.dll
+D:\Documents\diplomski\objektno oblikovanje\seminar\Dragisic_Andrej_KnjiznicaDobrisaCesaric\DobrisaCesaric\DobrisaCesaric.DomainTest\bin\Debug\DobrisaCesaric.DomainTest.dll
+D:\Documents\diplomski\objektno oblikovanje\seminar\Dragisic_Andrej_KnjiznicaDobrisaCesaric\DobrisaCesaric\DobrisaCesaric.DomainTest\bin\Debug\DobrisaCesaric.DomainTest.pdb
+D:\Documents\diplomski\objektno oblikovanje\seminar\Dragisic_Andrej_KnjiznicaDobrisaCesaric\DobrisaCesaric\DobrisaCesaric.DomainTest\bin\Debug\DobrisaCesaric.DomainModel.dll
+D:\Documents\diplomski\objektno oblikovanje\seminar\Dragisic_Andrej_KnjiznicaDobrisaCesaric\DobrisaCesaric\DobrisaCesaric.DomainTest\bin\Debug\DobrisaCesaric.DomainModel.pdb
+D:\Documents\diplomski\objektno oblikovanje\seminar\Dragisic_Andrej_KnjiznicaDobrisaCesaric\DobrisaCesaric\DobrisaCesaric.DomainTest\obj\Debug\DobrisaCesaric.DomainTest.pdb
+D:\Documents\diplomski\objektno oblikovanje\seminar\Dragisic_Andrej_KnjiznicaDobrisaCesaric\DobrisaCesaric\DobrisaCesaric.DomainTest\bin\Debug\DobrisaCesaric.Utility.dll
+D:\Documents\diplomski\objektno oblikovanje\seminar\Dragisic_Andrej_KnjiznicaDobrisaCesaric\DobrisaCesaric\DobrisaCesaric.DomainTest\bin\Debug\DobrisaCesaric.Utility.pdb

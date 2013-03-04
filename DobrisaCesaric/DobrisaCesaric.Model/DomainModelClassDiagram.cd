@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="DobrisaCesaric.DomainModel.Book">
+    <Position X="7.5" Y="3.25" Width="1.75" />
+    <AssociationLine Name="Authors" Type="DobrisaCesaric.DomainModel.Author" FixedToPoint="true">
+      <Path>
+        <Point X="7.625" Y="7.949" />
+        <Point X="7.625" Y="10.25" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>ABACIAAAgAAAAAgAAABAAAQCAQDAAAAIBACgAAgQAAA=</HashCode>
+      <FileName>Book.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Authors" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="DobrisaCesaric.DomainModel.Factories.BookFactory">
+    <Position X="9.5" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAEAAA=</HashCode>
+      <FileName>Factories\BookFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DobrisaCesaric.DomainModel.Repositories.BookRepository">
+    <Position X="9.5" Y="5" Width="1.75" />
+    <AssociationLine Name="_listBooks" Type="DobrisaCesaric.DomainModel.Book" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="10.312" Y="7.838" />
+        <Point X="10.312" Y="8.213" />
+        <Point X="8.562" Y="8.213" />
+        <Point X="8.562" Y="7.949" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AIAEQAAAAAAAAAQAACAAAAQABAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repositories\BookRepository.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="_listBooks" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="DobrisaCesaric.DomainModel.Reservation">
+    <Position X="4" Y="4.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAQAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Reservation.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Book" />
+      <Property Name="BookLender" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="DobrisaCesaric.DomainModel.Lending">
+    <Position X="4.25" Y="6.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAIBQCABAQAAEAAAAAAQAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Lending.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Librarian" />
+      <Property Name="Book" />
+      <Property Name="BookLender" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="DobrisaCesaric.DomainModel.BookLender">
+    <Position X="1" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAACAAAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>BookLender.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DobrisaCesaric.DomainModel.StudentLender">
+    <Position X="0.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAYAAAA=</HashCode>
+      <FileName>StudentLender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DobrisaCesaric.DomainModel.User">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAEAAgCAAAAAgAAEAAAAAAAAAAAAIAAAAAAAAAAk=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DobrisaCesaric.DomainModel.Librarian">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Librarian.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DobrisaCesaric.DomainModel.Author">
+    <Position X="6.75" Y="10.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAYAiAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Author.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DobrisaCesaric.DomainModel.NormalLender">
+    <Position X="2.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NormalLender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DobrisaCesaric.DomainModel.Repositories.ReservationRepository">
+    <Position X="4" Y="1.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAEAgAAAAAAAAAAAAAAAAQABAAAAAAAAAAgAgAAAAA=</HashCode>
+      <FileName>Repositories\ReservationRepository.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="_listReservation" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="DobrisaCesaric.DomainModel.Repositories.UserRepository">
+    <Position X="9" Y="10.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAMAEABAABAAAAAAAAAAASQBAAAAAAAAAAAIAIAQAg=</HashCode>
+      <FileName>Repositories\UserRepository.cs</FileName>
+      <NewMemberFileName>Repositories\AuthorRepository.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DobrisaCesaric.DomainModel.Repositories.LendingRepository">
+    <Position X="4" Y="10.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAQABACAEAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Repositories\LendingRepository.cs</FileName>
+      <NewMemberFileName>Repositories\ReservationRepository.cs</NewMemberFileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="_listLending" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
